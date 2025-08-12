@@ -3,6 +3,11 @@ function saludar() {
     console.log("Hola mundo");
 }
 
-saludar();
+saludar(); //Funcion hace un print de saludo
 
-//Comentario de prueba
+function Despedir(){
+    console.log("Adios")
+}
+
+Despedir();
+
