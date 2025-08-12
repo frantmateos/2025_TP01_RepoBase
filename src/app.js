@@ -6,8 +6,10 @@ function saludar() {
 saludar(); //Funcion hace un print de saludo
 //Agregamos funcion que printea un adios para saber cunado termina
 function Despedir(){
-    console.log("Adios")
+    console.log("Adios");
 }
 
+
 Despedir();
+ErrorFuncion();
 
