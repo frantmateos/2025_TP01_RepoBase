@@ -8,7 +8,9 @@ saludar(); //Funcion hace un print de saludo
 function Despedir(){
     console.log("Adios");
 }
-
+function Despedir(){
+    console.log("Solucionado");
+}
 
 Despedir();
 ErrorFuncion();
